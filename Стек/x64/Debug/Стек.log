@@ -1,0 +1,3 @@
+﻿  Стек.cpp
+C:\Users\Пользователь\source\repos\Стек\Стек.cpp(74,19): warning C4101: D: неиспользованная локальная переменная
+  Стек.vcxproj -> C:\Users\Пользователь\source\repos\Стек\x64\Debug\Стек.exe

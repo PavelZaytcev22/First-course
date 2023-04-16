@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Стек", "Стек.vcxproj", "{DE039243-0AEC-4855-BBFC-327A6E5B23AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Debug|x64.ActiveCfg = Debug|x64
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Debug|x64.Build.0 = Debug|x64
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Debug|x86.Build.0 = Debug|Win32
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Release|x64.ActiveCfg = Release|x64
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Release|x64.Build.0 = Release|x64
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Release|x86.ActiveCfg = Release|Win32
+		{DE039243-0AEC-4855-BBFC-327A6E5B23AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEBDD48E-023B-4E9C-B4F7-176D7D10D805}
+	EndGlobalSection
+EndGlobal
