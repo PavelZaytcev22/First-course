@@ -1,0 +1,9 @@
+﻿  Lab №4.cpp
+  Triad.cpp
+  time.cpp
+  Создание кода...
+C:\Users\Пользователь\source\repos\ООП Лаб №4\time.cpp(84): warning C4715: operator>: значение возвращается не при всех путях выполнения
+C:\Users\Пользователь\source\repos\ООП Лаб №4\time.cpp(108): warning C4715: operator<: значение возвращается не при всех путях выполнения
+C:\Users\Пользователь\source\repos\ООП Лаб №4\time.cpp(162): warning C4715: operator<=: значение возвращается не при всех путях выполнения
+C:\Users\Пользователь\source\repos\ООП Лаб №4\time.cpp(135): warning C4715: operator>=: значение возвращается не при всех путях выполнения
+  ООП Лаб №4.vcxproj -> C:\Users\Пользователь\source\repos\ООП Лаб №4\x64\Debug\ООП Лаб №4.exe
