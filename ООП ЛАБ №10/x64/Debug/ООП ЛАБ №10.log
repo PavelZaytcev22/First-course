@@ -1,0 +1,4 @@
+﻿  Lab10_main.cpp
+C:\Users\Пользователь\source\repos\ООП ЛАБ №10\Lab10_main.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Пользователь\source\repos\ООП ЛАБ №10\Lab10_main.cpp(12,11): warning C4101: x: неиспользованная локальная переменная
+  ООП ЛАБ №10.vcxproj -> C:\Users\Пользователь\source\repos\ООП ЛАБ №10\x64\Debug\ООП ЛАБ №10.exe
