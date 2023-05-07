@@ -1,0 +1,10 @@
+﻿  Lab11_main.cpp
+C:\Users\Пользователь\source\repos\Lab11_task5\Lab11_main.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Пользователь\source\repos\Lab11_task5\Vector.h(69,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Lab11_task5\Vector.h(62,1): message : во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+C:\Users\Пользователь\source\repos\Lab11_task5\Lab11_main.cpp(12,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Money>::Vector(int)"
+C:\Users\Пользователь\source\repos\Lab11_task5\Lab11_main.cpp(12,18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+C:\Users\Пользователь\source\repos\Lab11_task5\Vector.h(134,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Lab11_task5\Vector.h(128,26): message : во время компиляции функции-члена класс шаблон "void Vector<Money>::sredn(void)"
+C:\Users\Пользователь\source\repos\Lab11_task5\Lab11_main.cpp(18,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Money>::sredn(void)"
+  Lab11_task5.vcxproj -> C:\Users\Пользователь\source\repos\Lab11_task5\x64\Debug\Lab11_task5.exe
