@@ -1,0 +1,6 @@
+﻿  Lab№7_main.cpp
+  Money.cpp
+  plenty.cpp
+  Создание кода...
+Lab№7_main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class plenty<class Money> const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBV?$plenty@VMoney@@@@@Z) в функции main.
+C:\Users\Пользователь\source\repos\ЛАб №7 ООП\x64\Debug\ЛАб №7 ООП.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

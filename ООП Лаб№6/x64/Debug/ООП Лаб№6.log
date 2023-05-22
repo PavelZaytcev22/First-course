@@ -1,0 +1,5 @@
+﻿  Lab №6_main.cpp
+  plenty.cpp
+  Создание кода...
+C:\Users\Пользователь\source\repos\ООП Лаб№6\plenty.cpp(51): warning C4715: plenty::operator[]: значение возвращается не при всех путях выполнения
+  ООП Лаб№6.vcxproj -> C:\Users\Пользователь\source\repos\ООП Лаб№6\x64\Debug\ООП Лаб№6.exe

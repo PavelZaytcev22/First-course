@@ -1,0 +1,3 @@
+﻿  Lab13_main.cpp
+C:\Users\Пользователь\source\repos\Lab13_task2\Lab13_main.cpp(259,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab13_task2.vcxproj -> C:\Users\Пользователь\source\repos\Lab13_task2\x64\Debug\Lab13_task2.exe

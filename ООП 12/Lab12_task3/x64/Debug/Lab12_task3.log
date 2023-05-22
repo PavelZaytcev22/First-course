@@ -1,0 +1,11 @@
+﻿  Lab12_main.cpp
+C:\Users\Пользователь\source\repos\Lab12_task3\Lab12_main.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Пользователь\source\repos\Lab12_task3\Container.h(46,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Lab12_task3\Container.h(39,1): message : во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+C:\Users\Пользователь\source\repos\Lab12_task3\Lab12_main.cpp(15,17): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Money>::Vector(int)"
+C:\Users\Пользователь\source\repos\Lab12_task3\Lab12_main.cpp(15,20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+C:\Users\Пользователь\source\repos\Lab12_task3\Container.h(72,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Lab12_task3\Container.h(69,25): message : во время компиляции функции-члена класс шаблон "void Vector<Money>::sredn(void)"
+C:\Users\Пользователь\source\repos\Lab12_task3\Lab12_main.cpp(19,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Money>::sredn(void)"
+C:\Users\Пользователь\source\repos\Lab12_task3\Container.h(79,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  Lab12_task3.vcxproj -> C:\Users\Пользователь\source\repos\Lab12_task3\x64\Debug\Lab12_task3.exe

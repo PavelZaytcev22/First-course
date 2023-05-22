@@ -1,0 +1,4 @@
+﻿  Lab13_main.cpp
+C:\Users\Пользователь\source\repos\Lab13_task1\Lab13_main.cpp(47,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Lab13_task1\Lab13_main.cpp(81,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab13_task1.vcxproj -> C:\Users\Пользователь\source\repos\Lab13_task1\x64\Debug\Lab13_task1.exe
