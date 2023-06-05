@@ -1,0 +1,160 @@
+﻿  main.cpp
+C:\Users\Пользователь\source\repos\Graph 22\V.h(29,39): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\V.h(78,21): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Button.h(60,32): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Button.h(60,26): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Button.h(70,32): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Button.h(70,26): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Button.h(76,53): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Button.h(76,44): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Text.h(17,72): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Text.h(17,48): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Text.h(25,72): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Text.h(25,48): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Edg.h(167,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Edg.h(168,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Edg.h(169,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(87,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(99,23): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(103,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(115,23): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(445,53): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(449,84): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(453,105): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(462,83): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(466,75): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(475,74): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(479,105): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(488,104): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(531,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(531,46): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(549,76): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(553,118): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(557,139): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(562,117): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(566,98): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(571,97): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(575,139): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(580,138): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\main.cpp(129,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\main.cpp(183,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\main.cpp(234,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\main.cpp(457,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\main.cpp(485,6): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(186,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(182,1): message : во время компиляции функции-члена класс шаблон "int Graph<int>::get_width(void)"
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(140,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::get_width(void)"
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(96,1): message : во время компиляции функции-члена класс шаблон "void Graph<int>::add_vertex(const std::string &,const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\main.cpp(97,20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::add_vertex(const std::string &,const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Пользователь\source\repos\Graph 22\Fn.h(262): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(194,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(205,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(398,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(397,1): message : во время компиляции функции-члена класс шаблон "int Graph<int>::get_vertex_index(const std::string &)"
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(108,8): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::get_vertex_index(const std::string &)"
+C:\Users\Пользователь\source\repos\Graph 22\Graph.h(523): warning C4715: Graph<int>::find_not_visited: значение возвращается не при всех путях выполнения
+  Graph 22.vcxproj -> C:\Users\Пользователь\source\repos\Graph 22\x64\Debug\Graph 22.exe

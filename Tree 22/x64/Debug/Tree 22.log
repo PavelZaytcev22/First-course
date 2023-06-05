@@ -1,0 +1,45 @@
+﻿  Source.cpp
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(349,22): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(350,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(350,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(369,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(369,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(370,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(370,29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(381,49): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(381,31): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(382,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Пользователь\source\repos\Tree 22\Source.cpp(382,29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Tree 22.vcxproj -> C:\Users\Пользователь\source\repos\Tree 22\x64\Debug\Tree 22.exe
